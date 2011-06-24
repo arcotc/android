@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Demo App</string>
+    <string name="splash">Splash Screen</string>
+    <string name="menu">Menu Screen</string>
+    <string name="app">App Screen</string>
+    <string name="help">Help Screen</string>
+    <string name="splashTopTitle">My Demo App - Splash</string>
+</resources>
